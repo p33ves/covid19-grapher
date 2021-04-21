@@ -22,5 +22,9 @@ npm run build
 npm run lint
 ```
 
+### Sourcing data from:
+
+https://ourworldindata.org/coronavirus-source-data
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
